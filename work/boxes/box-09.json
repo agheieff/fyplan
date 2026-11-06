@@ -1,0 +1,26 @@
+{
+  "img": 9,
+  "file": "img/09.jpg",
+  "kind": "box",
+  "number": 8,
+  "title_zh": "前沿科技攻关",
+  "title_en": "Frontier Science and Technology Breakthroughs",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "人工智能", "en": "Artificial Intelligence"},
+    {"t": "p", "zh": "研制高性能人工智能芯片和高可用基础软件栈，加快模型基础架构探索创新，深化可解释、可决策等关键算法研究，加强人工智能数据治理和安全技术研究应用。", "en": "Develop high-performance artificial intelligence chips and highly available basic software stacks, accelerate exploration and innovation in foundational model architectures, deepen research on key algorithms such as interpretability and decision-making, and strengthen research on and application of AI data governance and security technologies."},
+    {"t": "head", "num": "02", "zh": "量子科技", "en": "Quantum Science and Technology"},
+    {"t": "p", "zh": "构建天地一体化量子通信网络，研制可容错的通用量子计算机和可扩展的专用量子计算机，突破量子精密测量关键技术。", "en": "Build an integrated space-ground quantum communication network, develop fault-tolerant general-purpose quantum computers and scalable special-purpose quantum computers, and achieve breakthroughs in key quantum precision measurement technologies."},
+    {"t": "head", "num": "03", "zh": "可控核聚变", "en": "Controlled Nuclear Fusion"},
+    {"t": "p", "zh": "突破氚燃料制备循环、材料辐照考验、高性能激光、超导磁体制备等核聚变关键技术，开展聚变氘氚燃烧等离子体运行实验和多技术路径可行性验证，推进核聚变研发工程化进程。", "en": "Achieve breakthroughs in key nuclear fusion technologies such as the tritium fuel preparation cycle, material irradiation testing, high-performance lasers and superconducting magnet manufacturing; carry out plasma operation experiments for deuterium-tritium fusion burning and feasibility verification of multiple technology paths; and advance the engineering process of nuclear fusion R&D."},
+    {"t": "head", "num": "04", "zh": "生命科学与生物技术", "en": "Life Sciences and Biotechnology"},
+    {"t": "p", "zh": "深化基因编辑、分子精准递送、细胞编程与调控、先进组学研究，攻关人工生命体系合成、类器官与器官芯片、器官制造、生物结构与功能成像等技术，研制生物工程设计软件工具。", "en": "Deepen research on gene editing, precise molecular delivery, cell programming and regulation, and advanced omics; achieve breakthroughs in technologies such as artificial life system synthesis, organoids and organ-on-a-chip, organ manufacturing, and biological structure and function imaging; and develop software tools for bioengineering design."},
+    {"t": "head", "num": "05", "zh": "脑科学与类脑研究", "en": "Brain Science and Brain-inspired Research"},
+    {"t": "p", "zh": "解析脑认知和脑功能原理，建设神经活动检测与调控等创新技术平台，加强脑健康主动应对技术研究，研发重大脑疾病预防、诊断、干预、治疗新方法新产品，构建类脑通用智能系统。", "en": "Decode the principles of brain cognition and brain function, build innovative technology platforms such as neural activity detection and regulation, strengthen research on technologies for proactive responses to brain health, develop new methods and products for the prevention, diagnosis, intervention and treatment of major brain diseases, and build brain-inspired general intelligent systems."},
+    {"t": "head", "num": "06", "zh": "重大疾病防治与创新药研发", "en": "Prevention and Treatment of Major Diseases and R&D of Innovative Drugs"},
+    {"t": "p", "zh": "完善艾滋病、结核、病毒性肝炎等传染病防治技术体系，研究癌症、心脑血管、呼吸和代谢性疾病的早筛早查、精准医学、生物治疗等关键技术，研发重大高发慢性病、重大传染病、罕见病、儿童用药等创新药物。", "en": "Improve the technical system for the prevention and treatment of infectious diseases such as AIDS, tuberculosis and viral hepatitis; research key technologies such as early screening and early detection of cancer, cardiovascular and cerebrovascular diseases, and respiratory and metabolic diseases, precision medicine and biological therapy; and develop innovative drugs for major high-incidence chronic diseases, major infectious diseases, rare diseases and pediatric use."},
+    {"t": "head", "num": "07", "zh": "深海深地极地探测", "en": "Deep Sea, Deep Earth and Polar Exploration"},
+    {"t": "p", "zh": "实施深海典型生境发现、大洋钻探、深海矿产开发、天然气水合物开采、超深水油气开发等任务，加快深海无人智能技术开发，建设蛟龙探海三期，研制深海空间站。攻关地球深部探测与矿产资源勘探装备，开展透视地球等基础科学研究，推进矿产资源智能化开发利用技术创新。建设雪龙探极三期。", "en": "Carry out tasks such as the discovery of typical deep-sea habitats, ocean drilling, deep-sea mineral development, natural gas hydrate extraction and ultra-deepwater oil and gas development; accelerate the development of deep-sea unmanned intelligent technologies; build the third phase of the Jiaolong deep-sea exploration program; and develop a deep-sea space station. Achieve breakthroughs in equipment for deep Earth exploration and mineral resources prospecting, carry out basic scientific research such as Earth transparency, and advance technological innovation in the intelligent development and utilization of mineral resources. Build the third phase of the Xuelong polar exploration program."},
+    {"t": "head", "num": "08", "zh": "深空探索", "en": "Deep Space Exploration"},
+    {"t": "p", "zh": "论证实施行星探测工程二期、近地小行星防御工程、太阳系边际探测工程。研制可重复使用重型运载火箭。论证建设国际月球科研站，实施月球探测工程。", "en": "Demonstrate and implement Phase II of the planetary exploration project, the near-Earth asteroid defense project and the solar system boundary exploration project. Develop reusable heavy-lift launch vehicles. Demonstrate and build an international lunar research station and implement the lunar exploration project."}
+  ]
+}

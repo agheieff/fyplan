@@ -1,0 +1,22 @@
+{
+  "img": 26,
+  "file": "img/26.jpg",
+  "kind": "box",
+  "number": 23,
+  "title_zh": "重点领域安全保障能力提升",
+  "title_en": "Improving Security Guarantee Capacity in Key Areas",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "粮食储备", "en": "Grain Reserves"},
+    {"t": "p", "zh": "整合布局建设和改造提升一批粮食仓储设施，稳步增加高标准粮仓规模。升级改造若干港口和口岸粮食仓储物流设施，提高粮食中转调运效率。提升粮食应急保障能力。", "en": "A number of grain storage facilities will be built, upgraded and improved in an integrated layout, and the scale of high-standard grain warehouses will be steadily increased. Several port and border-crossing grain storage and logistics facilities will be upgraded to improve the efficiency of grain transshipment and transportation. Grain emergency support capacity will be enhanced."},
+    {"t": "head", "num": "02", "zh": "油气勘探开发和储备", "en": "Oil and Gas Exploration, Development and Reserves"},
+    {"t": "p", "zh": "建设鄂尔多斯盆地、新疆、渤海湾油气基地和川渝、东海天然气基地，推动鄂尔多斯盆地东部煤层气开发。建设石油储备重大工程，建设大庆升平、长庆榆林雷龙湾、西南万顺场、新疆宝浪等储气库。", "en": "Oil and gas bases in the Ordos Basin, Xinjiang and the Bohai Bay and natural gas bases in Sichuan-Chongqing and the East China Sea will be built, and coalbed methane development in the eastern Ordos Basin will be promoted. Major petroleum reserve projects will be carried out, and gas storage facilities such as Daqing Shengping, Changqing Yulin Leilongwan, the Southwest Wanshunchang and Xinjiang Baolang will be built."},
+    {"t": "head", "num": "03", "zh": "煤制油气基地", "en": "Coal-to-Oil and Coal-to-Gas Bases"},
+    {"t": "p", "zh": "推进内蒙古鄂尔多斯、陕西榆林、新疆准东、新疆哈密等煤制油气战略基地建设，做好项目储备和资源预留保障。", "en": "Strategic coal-to-oil and coal-to-gas bases in Ordos of Inner Mongolia, Yulin of Shaanxi, Zhundong of Xinjiang and Hami of Xinjiang will be advanced, with project reserves and resource reservations ensured."},
+    {"t": "head", "num": "04", "zh": "新一轮找矿突破", "en": "New Round of Breakthroughs in Mineral Exploration"},
+    {"t": "p", "zh": "围绕紧缺能源矿产、紧缺金属矿产和非金属矿产、优势矿产等，大幅提高区域地质调查、矿产资源调查覆盖率，完善多元化勘查投入机制，加大重点勘查区和重要矿山深部勘查力度，形成一批储备矿产地。", "en": "Focusing on energy minerals in short supply, scarce metal and non-metal minerals, and minerals in which China has advantages, the coverage of regional geological surveys and mineral resource surveys will be substantially increased, the mechanism for diversified exploration investment will be improved, exploration in key exploration areas and in the deep parts of important mines will be intensified, and a number of mineral reserve sites will be developed."},
+    {"t": "head", "num": "05", "zh": "战略物资储备和应急救援", "en": "Strategic Material Reserves and Emergency Rescue"},
+    {"t": "p", "zh": "建设提升一批战略物资储备基地。加强国家区域应急救援中心建设，升级改造国家自然灾害工程救援基地，提升自然灾害高风险地区应急救援能力。加强航空关键应急救援力量建设。", "en": "A number of strategic material reserve bases will be built or upgraded. The building of national regional emergency rescue centers will be strengthened, national natural disaster engineering rescue bases will be upgraded, and emergency rescue capacity in areas at high risk of natural disasters will be improved. Key aviation emergency rescue forces will be strengthened."},
+    {"t": "head", "num": "06", "zh": "灾害监测预报体系", "en": "Disaster Monitoring and Forecasting System"},
+    {"t": "p", "zh": "建设地球系统数据平台，加强气象、水文、地质、地震等灾害监测预报预警体系建设，提升海洋观测预报预警能力。", "en": "An Earth system data platform will be built; the system for monitoring, forecasting and early warning of meteorological, hydrological, geological, seismic and other disasters will be strengthened; and marine observation, forecasting and early warning capacity will be improved."}
+  ]
+}

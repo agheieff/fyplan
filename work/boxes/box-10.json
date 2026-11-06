@@ -1,0 +1,18 @@
+{
+  "img": 10,
+  "file": "img/10.jpg",
+  "kind": "box",
+  "number": 9,
+  "title_zh": "创新基础能力提升",
+  "title_en": "Enhancing Basic Innovation Capacity",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "国家实验室体系", "en": "National Laboratory System"},
+    {"t": "p", "zh": "支持国家实验室、全国重点实验室等加强重大科研平台建设和科研条件改善，以国家实验室为主体，以全国重点实验室等协同攻关的国家科技创新平台基地为重要支撑，形成使命驱动、任务导向、高效协同的国家实验室体系。", "en": "Support national laboratories, national key laboratories and others in strengthening the construction of major scientific research platforms and improving research conditions; with national laboratories as the main body and national science and technology innovation platform bases, including national key laboratories conducting collaborative research, as important support, form a national laboratory system that is mission-driven, task-oriented and efficiently coordinated."},
+    {"t": "head", "num": "02", "zh": "重大科技基础设施", "en": "Major Science and Technology Infrastructure"},
+    {"t": "p", "zh": "建设吸气式发动机关键部件热物理试验装置、高精度地基授时系统等战略导向型设施，散裂中子源二期工程、深部岩土工程扰动模拟设施等应用支撑型设施，空地一体量子精密测量实验设施、脉冲强磁场实验装置优化提升等前瞻引领型设施。", "en": "Build strategically oriented facilities such as the thermal physics test facility for key components of air-breathing engines and the high-precision ground-based timing system; application-support facilities such as Phase II of the China Spallation Neutron Source project and the deep rock and soil engineering disturbance simulation facility; and forward-looking leading facilities such as the integrated space-ground quantum precision measurement experimental facility and the upgrading of the pulsed high magnetic field experimental device."},
+    {"t": "head", "num": "03", "zh": "区域创新体系", "en": "Regional Innovation System"},
+    {"t": "p", "zh": "支持北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中心建设，打造世界级科技创新策源地。支持北京怀柔、上海张江、大湾区、安徽合肥综合性国家科学中心建设重大科研设施平台集群。推进成渝地区、武汉、西安区域科技创新中心建设。", "en": "Support the building of international science and technology innovation centers in Beijing (the Beijing–Tianjin–Hebei region), Shanghai (the Yangtze River Delta) and the Guangdong–Hong Kong–Macao Greater Bay Area, and create world-class sources of science and technology innovation. Support the comprehensive national science centers in Huairou of Beijing, Zhangjiang of Shanghai, the Greater Bay Area and Hefei of Anhui in building clusters of major research facilities and platforms. Advance the building of regional science and technology innovation centers in the Chengdu–Chongqing region, Wuhan and Xi'an."},
+    {"t": "head", "num": "04", "zh": "科技基础条件平台", "en": "Science and Technology Infrastructure Platforms"},
+    {"t": "p", "zh": "实施高端科研仪器和生物试剂产业创新工程。完善生物种质与实验材料资源库、国家野外科学观测研究站布局。建设世界一流科技期刊、高水平科技文献平台和科学数据库。", "en": "Implement the industrial innovation project for high-end scientific research instruments and biological reagents. Improve the layout of biological germplasm and experimental material resource banks and national field scientific observation and research stations. Build world-class science and technology journals, high-level scientific and technological literature platforms and scientific databases."}
+  ]
+}

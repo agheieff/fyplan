@@ -1,0 +1,18 @@
+{
+  "img": 20,
+  "file": "img/20.jpg",
+  "kind": "box",
+  "number": 18,
+  "title_zh": "就业促进与服务提升",
+  "title_en": "Employment Promotion and Service Improvement",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "重点群体就业支持", "en": "Employment Support for Key Groups"},
+    {"t": "p", "zh": "实施高校毕业生等青年就业支持计划，完善政策激励、职业介绍、职业指导、就业见习全链条支持体系。强化劳务输入地和输出地协同，打造特色劳务品牌。统筹用好公益性岗位，做好困难群体就业兜底帮扶。", "en": "An employment support plan for college graduates and other young people will be implemented, and a full-chain support system covering policy incentives, job referrals, career guidance and employment internships will be improved. Coordination between labor-importing and labor-exporting areas will be strengthened, and distinctive labor service brands will be created. Public welfare jobs will be used in a coordinated way, and employment assistance will be provided as a fallback for groups in difficulty."},
+    {"t": "head", "num": "02", "zh": "“技能照亮前程”培训行动", "en": "The “Skills Light the Way to the Future” Training Initiative"},
+    {"t": "p", "zh": "聚焦先进制造、数字经济、生活服务等领域，支持重点群体参加就业技能培训。建设国家级高技能人才培训基地和技能大师工作室，支持建设一批公共实训基地。鼓励企业开展新型学徒制培训和技师培训。", "en": "Focusing on fields such as advanced manufacturing, the digital economy and everyday services, key groups will be supported in participating in employment skills training. National training bases for highly skilled talent and skills master studios will be built, and a number of public practical training bases will be supported. Enterprises will be encouraged to carry out training under the new apprenticeship system and technician training."},
+    {"t": "head", "num": "03", "zh": "就业公共服务提质", "en": "Improving Public Employment Services"},
+    {"t": "p", "zh": "加强“家门口”就业服务，提高就业公共服务可及性。健全全国就业信息资源库和智慧就业服务平台，加强就业信息服务，促进就业供求精准匹配，强化就业大数据监测。建立人工智能对就业影响的调查和应对机制，加强稳岗保障、转岗培训和就业支持。", "en": "“Doorstep” employment services will be strengthened to make public employment services more accessible. The national employment information resource database and the smart employment service platform will be improved, employment information services will be strengthened, a precise match between labor supply and demand will be promoted, and big-data monitoring of employment will be reinforced. A mechanism for investigating and responding to the impact of artificial intelligence on employment will be established, and job stabilization support, job transfer training and employment support will be strengthened."},
+    {"t": "head", "num": "04", "zh": "创业带动就业效能提升", "en": "Enhancing the Employment-Generating Effect of Entrepreneurship"},
+    {"t": "p", "zh": "强化创业培训、创业服务、创业孵化、创业活动联动支持，分类推进“科技成果+创业”、“产业发展+创业”、“职业技能+创业”、“民生需求+创业”，打造高质量创业孵化载体。", "en": "Support for entrepreneurial training, entrepreneurial services, business incubation and entrepreneurial activities will be strengthened in an integrated way; “scientific and technological achievements plus entrepreneurship”, “industrial development plus entrepreneurship”, “vocational skills plus entrepreneurship” and “people's livelihood needs plus entrepreneurship” will be advanced by category; and high-quality business incubation platforms will be built."}
+  ]
+}

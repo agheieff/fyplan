@@ -1,0 +1,18 @@
+{
+  "img": 21,
+  "file": "img/21.jpg",
+  "kind": "box",
+  "number": 19,
+  "title_zh": "社会关爱服务提升",
+  "title_en": "Improving Social Care Services",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "困境儿童和留守儿童关爱", "en": "Care for Children in Difficulty and Left-Behind Children"},
+    {"t": "p", "zh": "加大困境儿童基本生活保障力度，完善医疗康复、基本公共教育、心理健康关爱、人身安全、法定监护等服务保障体系。拓展儿童福利机构服务功能，面向社会提供养护、康复、特殊教育等服务，扩大未成年人救助保护服务覆盖面。对留守儿童、散居孤儿和事实无人抚养儿童定期开展关爱活动。", "en": "Basic living security for children in difficulty will be strengthened, and the service and support system covering medical rehabilitation, basic public education, psychological health care, personal safety and legal guardianship will be improved. The service functions of child welfare institutions will be expanded to provide care, rehabilitation, special education and other services to society, and the coverage of rescue and protection services for minors will be broadened. Care activities will be carried out regularly for left-behind children, orphans living in scattered communities and children de facto without caregivers."},
+    {"t": "head", "num": "02", "zh": "退役军人优抚和烈士褒扬", "en": "Preferential Treatment for Veterans and Commemoration of Martyrs"},
+    {"t": "p", "zh": "提升优抚医院、光荣院等服务能力。实施烈士纪念设施改造，提升展陈和管护水平。持续做好失踪烈士遗骸搜寻保护和为烈士寻亲工作。", "en": "The service capacity of preferential treatment hospitals, homes of honor and the like will be enhanced. Martyrs' memorial facilities will be renovated, and their exhibition and management and upkeep levels will be raised. Continued efforts will be made to search for and protect the remains of missing martyrs and to help martyrs' families find their relatives."},
+    {"t": "head", "num": "03", "zh": "残疾人服务", "en": "Services for Persons with Disabilities"},
+    {"t": "p", "zh": "建设一批专业化的残疾人康复、托养照护、职业教育等服务设施。提升康复机构专业化服务能力，办好康复大学。鼓励有条件的养老机构设立“老年父母+残疾子女”家庭照护单元。支持困难重度残疾人家庭无障碍改造。", "en": "A number of specialized service facilities for rehabilitation, care and nursing, and vocational education for persons with disabilities will be built. The specialized service capacity of rehabilitation institutions will be enhanced, and the Rehabilitation University will be well run. Qualified elderly care institutions will be encouraged to set up “elderly parents plus children with disabilities” family care units. Support will be given to barrier-free renovation of the homes of families in difficulty with severely disabled members."},
+    {"t": "head", "num": "04", "zh": "公益性殡葬服务", "en": "Public Welfare Funeral and Burial Services"},
+    {"t": "p", "zh": "建立健全基本殡葬服务制度，加强殡葬行业综合监管。建设改造一批殡仪馆，更新老旧火化设备。建设一批公益性节地生态安葬设施，因地制宜推广骨灰格位安葬、树葬、海葬等。", "en": "A basic funeral and burial service system will be established and improved, and comprehensive supervision of the funeral and burial industry will be strengthened. A number of funeral parlors will be built or renovated, and outdated cremation equipment will be replaced. A number of public welfare land-saving and ecological burial facilities will be built, and such practices as columbarium placement of ashes, tree burial and sea burial will be promoted in light of local conditions."}
+  ]
+}

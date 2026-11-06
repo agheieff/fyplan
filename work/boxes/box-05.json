@@ -1,0 +1,24 @@
+{
+  "img": 5,
+  "file": "img/05.jpg",
+  "kind": "box",
+  "number": 5,
+  "title_zh": "新型能源体系建设",
+  "title_en": "Building a New Energy System",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "重大水电及水风光一体化基地", "en": "Major Hydropower and Hydro-Wind-Solar Integrated Bases"},
+    {"t": "p", "zh": "安全有序推进雅鲁藏布江下游水电工程建设，推进雅砻江、金沙江上游、澜沧江上游、藏东南（玉察）等流域水风光一体化基地建设。建设茨哈峡等水电站。研究论证怒江流域水电规划。在厂址资源好、负荷调节需求大的地区建设一批抽水蓄能电站，新增投产装机容量1亿千瓦左右。", "en": "Advance the construction of the downstream hydropower project on the Yarlung Tsangpo River in a safe and orderly manner, and advance the construction of integrated hydro-wind-solar bases in river basins such as the Yalong River, the upper reaches of the Jinsha River, the upper reaches of the Lancang River, and southeastern Tibet (Yucha). Build hydropower stations such as Cihaxia. Study and demonstrate hydropower planning for the Nu River basin. Build a batch of pumped-storage power stations in areas with good site resources and large load regulation demand, adding about 100 million kilowatts of newly commissioned installed capacity."},
+    {"t": "head", "num": "02", "zh": "“沙戈荒”等新能源基地", "en": "“Desert, Gobi and Wasteland” and Other New Energy Bases"},
+    {"t": "p", "zh": "以库布齐、乌兰布和、腾格里、巴丹吉林沙漠为重点，以其他沙漠、戈壁和荒漠地区为补充，建设以外送为主的大型风电光伏基地。持续推进新疆、黄河上游、河西走廊、黄河“几字弯”、冀北、松辽等新能源基地建设。", "en": "Focusing on the Kubuqi, Ulan Buh, Tengger and Badain Jaran deserts, with other desert, gobi and barren areas as supplements, build large wind and photovoltaic power bases mainly for transmitting power out of the region. Continue to advance the construction of new energy bases in Xinjiang, the upper reaches of the Yellow River, the Hexi Corridor, the “Jizi Bend” of the Yellow River, northern Hebei and the Songliao region."},
+    {"t": "head", "num": "03", "zh": "海上风电基地", "en": "Offshore Wind Power Bases"},
+    {"t": "p", "zh": "在渤海、黄海、东海、南海海域建设海上风电基地，规范有序推进深远海风电开发，海上风电累计并网装机规模达到1亿千瓦以上。", "en": "Build offshore wind power bases in the Bohai Sea, the Yellow Sea, the East China Sea and the South China Sea, advance the development of deep-sea and far-sea wind power in a well-regulated and orderly manner, and bring the cumulative grid-connected installed capacity of offshore wind power to more than 100 million kilowatts."},
+    {"t": "head", "num": "04", "zh": "沿海核电", "en": "Coastal Nuclear Power"},
+    {"t": "p", "zh": "积极安全有序推进沿海核电建设，核电运行装机容量达到1.1亿千瓦左右。因地制宜推进核能综合利用。建成小型压水堆示范工程，稳妥推进四代堆技术研发与应用示范。", "en": "Actively advance coastal nuclear power construction in a safe and orderly manner, with nuclear power operating installed capacity reaching about 110 million kilowatts. Promote the comprehensive utilization of nuclear energy in light of local conditions. Complete the small pressurized water reactor demonstration project and steadily advance the R&D and application demonstration of fourth-generation reactor technologies."},
+    {"t": "head", "num": "05", "zh": "电力输送通道", "en": "Power Transmission Corridors"},
+    {"t": "p", "zh": "建设内蒙古、吉林、黑龙江、甘肃、青海、宁夏、新疆、西藏等省区清洁能源基地电力外送通道，西电东送能力达到4.2亿千瓦以上。", "en": "Build power transmission corridors for clean energy bases in provinces and autonomous regions such as Inner Mongolia, Jilin, Heilongjiang, Gansu, Qinghai, Ningxia, Xinjiang and Tibet, and bring the capacity of west-to-east power transmission to more than 420 million kilowatts."},
+    {"t": "head", "num": "06", "zh": "电力互济工程", "en": "Mutual Power Support Projects"},
+    {"t": "p", "zh": "加强省间电力互济和跨电网经营区互济，建设闽赣、皖鄂、鲁苏、渝黔、湘黔、湘粤等电力互济工程，促进电力资源优化配置。", "en": "Strengthen interprovincial mutual power support and mutual support across power grid operating areas, build mutual power support projects such as Fujian–Jiangxi, Anhui–Hubei, Shandong–Jiangsu, Chongqing–Guizhou, Hunan–Guizhou and Hunan–Guangdong, and promote the optimal allocation of power resources."},
+    {"t": "head", "num": "07", "zh": "天然气管网", "en": "Natural Gas Pipeline Network"},
+    {"t": "p", "zh": "建设中俄远东天然气管道、川气东送二线天然气管道，推进中俄中线天然气管道前期工作。", "en": "Build the China–Russia Far East natural gas pipeline and the second Sichuan gas-to-east transmission line, and advance preliminary work on the China–Russia central line natural gas pipeline."}
+  ]
+}

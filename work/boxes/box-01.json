@@ -1,0 +1,48 @@
+{
+  "img": 1,
+  "file": "img/01.jpg",
+  "kind": "table",
+  "number": 1,
+  "title_zh": "“十五五”时期经济社会发展主要指标",
+  "title_en": "Main Indicators of Economic and Social Development in the 15th Five-Year Plan Period",
+  "blocks": [
+    {
+      "t": "table",
+      "cols": [
+        {"zh": "类别", "en": "Category"},
+        {"zh": "指标", "en": "Indicator"},
+        {"zh": "2025年", "en": "2025"},
+        {"zh": "2030年", "en": "2030"},
+        {"zh": "年均/累计", "en": "Annual average/Cumulative"},
+        {"zh": "属性", "en": "Attribute"}
+      ],
+      "rows": [
+        [{"zh": "经济发展", "en": "Economic development"}, {"zh": "1.国内生产总值（GDP）增长（%）", "en": "1. GDP growth (%)"}, {"zh": "5", "en": "5"}, {"zh": "—", "en": "—"}, {"zh": "保持在合理区间、各年度视情提出", "en": "Maintained within a reasonable range, with annual targets set as appropriate"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "经济发展", "en": "Economic development"}, {"zh": "2.全员劳动生产率增长（%）", "en": "2. Growth in overall labor productivity (%)"}, {"zh": "6.1", "en": "6.1"}, {"zh": "—", "en": "—"}, {"zh": "高于GDP增长", "en": "Higher than GDP growth"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "经济发展", "en": "Economic development"}, {"zh": "3.常住人口城镇化率（%）", "en": "3. Urbanization rate of permanent residents (%)"}, {"zh": "67.9", "en": "67.9"}, {"zh": "71", "en": "71"}, {"zh": "—", "en": "—"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "创新驱动", "en": "Innovation-driven development"}, {"zh": "4.全社会研发经费投入增长（%）", "en": "4. Growth in total R&D spending (%)"}, {"zh": "9.1", "en": "9.1"}, {"zh": "—", "en": "—"}, {"zh": "> 7", "en": "> 7"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "创新驱动", "en": "Innovation-driven development"}, {"zh": "5.每万人口高价值发明专利拥有量（件）", "en": "5. High-value invention patents per 10,000 population (patents)"}, {"zh": "16", "en": "16"}, {"zh": "> 22", "en": "> 22"}, {"zh": "—", "en": "—"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "创新驱动", "en": "Innovation-driven development"}, {"zh": "6.数字经济核心产业增加值占GDP比重（%）", "en": "6. Value added of core industries of the digital economy as a share of GDP (%)"}, {"zh": "10.5*", "en": "10.5*"}, {"zh": "12.5", "en": "12.5"}, {"zh": "—", "en": "—"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "民生福祉", "en": "People's wellbeing"}, {"zh": "7.城镇调查失业率（%）", "en": "7. Surveyed urban unemployment rate (%)"}, {"zh": "5.2", "en": "5.2"}, {"zh": "—", "en": "—"}, {"zh": "< 5.5", "en": "< 5.5"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "民生福祉", "en": "People's wellbeing"}, {"zh": "8.居民人均可支配收入增长（%）", "en": "8. Growth in per capita disposable income of residents (%)"}, {"zh": "5", "en": "5"}, {"zh": "—", "en": "—"}, {"zh": "与GDP增长同步", "en": "Keep pace with GDP growth"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "民生福祉", "en": "People's wellbeing"}, {"zh": "9.劳动年龄人口平均受教育年限（年）", "en": "9. Average years of schooling of the working-age population (years)"}, {"zh": "11.3", "en": "11.3"}, {"zh": "11.7", "en": "11.7"}, {"zh": "—", "en": "—"}, {"zh": "约束性", "en": "Binding"}],
+        [{"zh": "民生福祉", "en": "People's wellbeing"}, {"zh": "10.每千人口拥有医护人员数 执业医师数（人）", "en": "10. Health workers per 1,000 population: practicing physicians (persons)"}, {"zh": "3.1", "en": "3.1"}, {"zh": "3.7", "en": "3.7"}, {"zh": "—", "en": "—"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "民生福祉", "en": "People's wellbeing"}, {"zh": "10.每千人口拥有医护人员数 注册护士数（人）", "en": "10. Health workers per 1,000 population: registered nurses (persons)"}, {"zh": "4.3", "en": "4.3"}, {"zh": "5.1", "en": "5.1"}, {"zh": "—", "en": "—"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "民生福祉", "en": "People's wellbeing"}, {"zh": "11.养老机构护理型床位占比（%）", "en": "11. Share of nursing-type beds in elderly care institutions (%)"}, {"zh": "68", "en": "68"}, {"zh": "73", "en": "73"}, {"zh": "—", "en": "—"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "民生福祉", "en": "People's wellbeing"}, {"zh": "12. 3岁以下婴幼儿入托率提高（百分点）", "en": "12. Increase in the nursery enrollment rate of children under 3 (percentage points)"}, {"zh": "—", "en": "—"}, {"zh": "—", "en": "—"}, {"zh": "〔6〕", "en": "〔6〕"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "民生福祉", "en": "People's wellbeing"}, {"zh": "13.人均预期寿命（岁）", "en": "13. Average life expectancy (years)"}, {"zh": "79.25", "en": "79.25"}, {"zh": "80", "en": "80"}, {"zh": "—", "en": "—"}, {"zh": "预期性", "en": "Anticipatory"}],
+        [{"zh": "绿色低碳", "en": "Green and low-carbon"}, {"zh": "14.单位GDP二氧化碳排放降低（%）", "en": "14. Reduction in carbon dioxide emissions per unit of GDP (%)"}, {"zh": "〔17.7〕", "en": "〔17.7〕"}, {"zh": "—", "en": "—"}, {"zh": "〔17〕", "en": "〔17〕"}, {"zh": "约束性", "en": "Binding"}],
+        [{"zh": "绿色低碳", "en": "Green and low-carbon"}, {"zh": "15.非化石能源占能源消费总量比重（%）", "en": "15. Share of non-fossil energy in total energy consumption (%)"}, {"zh": "21.7", "en": "21.7"}, {"zh": "25", "en": "25"}, {"zh": "—", "en": "—"}, {"zh": "约束性", "en": "Binding"}],
+        [{"zh": "绿色低碳", "en": "Green and low-carbon"}, {"zh": "16.地级及以上城市细颗粒物（PM2.5）浓度（微克/立方米）", "en": "16. Concentration of fine particulate matter (PM2.5) in cities at the prefecture level and above (μg/m³)"}, {"zh": "28", "en": "28"}, {"zh": "< 27", "en": "< 27"}, {"zh": "—", "en": "—"}, {"zh": "约束性", "en": "Binding"}],
+        [{"zh": "绿色低碳", "en": "Green and low-carbon"}, {"zh": "17.优良水体比例（%）", "en": "17. Share of water bodies of good quality (%)"}, {"zh": "80", "en": "80"}, {"zh": "85", "en": "85"}, {"zh": "—", "en": "—"}, {"zh": "约束性", "en": "Binding"}],
+        [{"zh": "绿色低碳", "en": "Green and low-carbon"}, {"zh": "18.森林覆盖率（%）", "en": "18. Forest coverage (%)"}, {"zh": "25.1*", "en": "25.1*"}, {"zh": "25.8", "en": "25.8"}, {"zh": "—", "en": "—"}, {"zh": "约束性", "en": "Binding"}],
+        [{"zh": "安全保障", "en": "Security safeguards"}, {"zh": "19.粮食综合生产能力（万亿斤）", "en": "19. Comprehensive grain production capacity (trillion jin)"}, {"zh": "1.39", "en": "1.39"}, {"zh": "1.45 左右", "en": "1.45 or so"}, {"zh": "—", "en": "—"}, {"zh": "约束性", "en": "Binding"}],
+        [{"zh": "安全保障", "en": "Security safeguards"}, {"zh": "20.能源综合生产能力（亿吨标准煤）", "en": "20. Comprehensive energy production capacity (100 million tonnes of standard coal)"}, {"zh": "51.3", "en": "51.3"}, {"zh": "58", "en": "58"}, {"zh": "—", "en": "—"}, {"zh": "约束性", "en": "Binding"}]
+      ],
+      "notes": [
+        {"zh": "注：①（ ）为5年累计数。②带*的为2024年数据。③全社会研发经费投入增速按不变价格计算。④粮食综合生产能力指可以稳定达到的粮食产出能力。",
+         "en": "Note: ① Figures in ( ) are five-year cumulative figures. ② Figures marked with * are 2024 data. ③ The growth rate of total R&D spending is calculated at constant prices. ④ Comprehensive grain production capacity refers to the grain output capacity that can be steadily achieved."}
+      ]
+    }
+  ]
+}

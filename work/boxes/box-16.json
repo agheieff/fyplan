@@ -1,0 +1,20 @@
+{
+  "img": 16,
+  "file": "img/16.jpg",
+  "kind": "box",
+  "number": 14,
+  "title_zh": "社会主义文化繁荣发展",
+  "title_en": "Prosperity and Development of Socialist Culture",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "党的创新理论研究阐释", "en": "Research, Interpretation and Elucidation of the Party's Innovative Theory"},
+    {"t": "p", "zh": "持续编辑出版《习近平著作选读》、《习近平谈治国理政》等重要著作，编写修订习近平新时代中国特色社会主义思想分领域思想概论、学习纲要、学习问答等系列理论读物，加强对外翻译出版和海外传播。", "en": "Editorial work will continue on the publication of important works such as “Selected Readings from the Works of Xi Jinping” and “Xi Jinping: The Governance of China”, and a series of theoretical readers — including the introductions to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era in various fields, study outlines and study question-and-answer books — will be compiled and revised, with stronger translation, publication and overseas dissemination."},
+    {"t": "head", "num": "02", "zh": "文艺精品创作引导扶持", "en": "Guidance and Support for the Creation of Outstanding Literary and Artistic Works"},
+    {"t": "p", "zh": "深入实施精神文明建设“五个一工程”、国家美术典藏计划、戏剧振兴行动计划。推进新时代山乡巨变创作、新时代文学攀登等项目。组织创作100部新时代经典纪录片、100部优秀动画作品和系列优秀影视节目、微短剧。", "en": "The “Five One Project” for spiritual civilization development, the National Fine Arts Collection Program and the action plan for the revitalization of drama will be implemented in depth. Projects such as the creation of works on the earth-shaking changes in mountain villages in the new era and the scaling of new heights in new-era literature will be advanced. One hundred classic documentaries of the new era, 100 outstanding animated works and a series of excellent film and television programs and micro short dramas will be produced."},
+    {"t": "head", "num": "03", "zh": "公共文化设施建设", "en": "Development of Public Cultural Facilities"},
+    {"t": "p", "zh": "建成中央档案馆新馆、国家自然博物馆新馆、国家文献储备库，建设国家美术馆。提升公共图书馆、文化馆和新型公共文化空间服务水平，实施中小博物馆提升计划。", "en": "The new building of the Central Archives, the new building of the National Natural History Museum and the National Documents Repository will be completed, and the National Art Museum will be built. The service level of public libraries, cultural centers and new types of public cultural spaces will be raised, and a program to upgrade small and medium-sized museums will be implemented."},
+    {"t": "head", "num": "04", "zh": "文化遗产保护传承利用", "en": "Protection, Inheritance and Utilization of Cultural Heritage"},
+    {"t": "p", "zh": "建设国家文化遗产科技创新中心、国家夏商文明考古研究中心。加强河西走廊国家文化遗产线路和蜀道、秦直道等整体性保护。实施“中国营造”重点计划。系统推进《永乐大典》、敦煌文献、简牍文献保护整理出版。实施重要革命旧址维修和馆藏革命文物修复计划。建设国家文物资源大数据库。保护提升世界文化遗产和一批历史文化名城、街区、村镇。", "en": "The National Cultural Heritage Science and Technology Innovation Center and the National Archaeological Research Center for Xia and Shang Civilizations will be built. Integrated protection of the Hexi Corridor national cultural heritage route and the Shu Roads, the Qin Straight Road and other heritage routes will be strengthened. The key “Chinese Construction” program will be implemented. The protection, collation and publication of the Yongle Encyclopedia, Dunhuang documents and bamboo and wooden slip documents will be advanced in a systematic way. A program for repairing important revolutionary sites and restoring revolutionary cultural relics in museum collections will be carried out. A national database of cultural relic resources will be built. World cultural heritage sites and a number of historical and cultural cities, districts and towns and villages will be protected and upgraded."},
+    {"t": "head", "num": "05", "zh": "文化和旅游深度融合发展", "en": "Deep Integration of Culture and Tourism"},
+    {"t": "p", "zh": "依托优质文化资源，盘活利用存量设施，加强旅游休闲城市和街区建设，培育一批高品质旅游景区和度假区，打造一批精品旅游线路和产品。", "en": "High-quality cultural resources will be leveraged and existing facilities revitalized and put to use; the development of tourism and leisure cities and districts will be strengthened; a number of high-quality tourist attractions and resorts will be cultivated; and a number of premium tourism routes and products will be created."}
+  ]
+}

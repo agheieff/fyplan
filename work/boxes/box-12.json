@@ -1,0 +1,20 @@
+{
+  "img": 12,
+  "file": "img/12.jpg",
+  "kind": "box",
+  "number": 11,
+  "title_zh": "对外开放平台功能提升",
+  "title_en": "Enhancing the Functions of Opening-up Platforms",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "海南自由贸易港", "en": "Hainan Free Trade Port"},
+    {"t": "p", "zh": "实施更加开放的人员、运输、金融、数据等政策，深化税收制度、行政体制等重点领域改革。建设世界一流商业航天发射场，提高国际医疗旅游先行区和国际教育创新试验区开放水平。", "en": "Implement more open policies on personnel, transport, finance and data, and deepen reform in key areas such as the tax system and the administrative system. Build a world-class commercial space launch site and raise the level of openness of the international medical tourism pilot zone and the international education innovation pilot zone."},
+    {"t": "head", "num": "02", "zh": "自由贸易试验区", "en": "Pilot Free Trade Zones"},
+    {"t": "p", "zh": "优化自由贸易试验区布局范围，结合实际赋予新的改革试点任务，深化差别化探索，推动改革成果复制推广。推动有条件的自由贸易试验区围绕数字经济、科技创新、离岸贸易等领域开展更多首创首试。", "en": "Optimize the layout and scope of pilot free trade zones, assign new reform pilot tasks in light of actual conditions, deepen differentiated exploration, and promote the replication and extension of reform results. Promote qualified pilot free trade zones to carry out more pioneering trials in areas such as the digital economy, scientific and technological innovation, and offshore trade."},
+    {"t": "head", "num": "03", "zh": "边境合作平台", "en": "Border Cooperation Platforms"},
+    {"t": "p", "zh": "高标准建设广西钦防、云南瑞丽、新疆伊犁、内蒙古满洲里、黑龙江牡丹江产业协作园区。设立黑河、吉隆、丹东、喀什、阿拉山口重点开发开放试验区。", "en": "Build industrial cooperation parks in Qinzhou–Fangchenggang of Guangxi, Ruili of Yunnan, Ili of Xinjiang, Manzhouli of Inner Mongolia and Mudanjiang of Heilongjiang to high standards. Establish key development and opening-up pilot areas in Heihe, Gyirong, Dandong, Kashgar and Alataw Pass."},
+    {"t": "head", "num": "04", "zh": "边境口岸", "en": "Border Ports"},
+    {"t": "p", "zh": "建成黑瞎子岛、双目峰公路口岸和甘其毛都铁路口岸。升级改造集安、满洲里、二连浩特、磨憨、河口、孟定清水河公路口岸和绥芬河铁路口岸。", "en": "Complete the Heixiazi Island and Shuangmufeng highway ports and the Ganqimaodu railway port. Upgrade and renovate the Ji'an, Manzhouli, Erenhot, Mohan, Hekou and Mengding Qingshuihe highway ports and the Suifenhe railway port."},
+    {"t": "head", "num": "05", "zh": "中欧（亚）班列集结中心", "en": "China–Europe (Central Asia) Freight Train Assembly Centers"},
+    {"t": "p", "zh": "支持沈阳、天津—石家庄、济南—青岛、连云港—徐州、金华（义乌）、合肥、郑州、武汉、长沙、广州、成都—重庆、昆明、西安、乌鲁木齐等14个中欧（亚）班列集结中心及节点城市建设。", "en": "Support the building of 14 China–Europe (Central Asia) freight train assembly centers and hub cities, including Shenyang, Tianjin–Shijiazhuang, Jinan–Qingdao, Lianyungang–Xuzhou, Jinhua (Yiwu), Hefei, Zhengzhou, Wuhan, Changsha, Guangzhou, Chengdu–Chongqing, Kunming, Xi'an and Urumqi."}
+  ]
+}

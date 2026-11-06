@@ -1,0 +1,24 @@
+{
+  "img": 18,
+  "file": "img/18.jpg",
+  "kind": "box",
+  "number": 16,
+  "title_zh": "健康中国建设",
+  "title_en": "Building a Healthy China",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "公共卫生能力建设", "en": "Building Public Health Capacity"},
+    {"t": "p", "zh": "提升中国疾病预防控制中心综合能力。加强国家紧急医学救援基地建设。布局建设10个国家区域血液安全中心。", "en": "The overall capacity of the Chinese Center for Disease Control and Prevention will be enhanced. The building of national emergency medical rescue bases will be strengthened. Ten national regional blood safety centers will be established."},
+    {"t": "head", "num": "02", "zh": "优质医疗服务提升", "en": "Improving Quality Medical Services"},
+    {"t": "p", "zh": "聚焦重点病种加强高水平医院建设，支持60个省域优质医院提升临床诊疗水平。推动病房设施和设备老旧的医院开展病房改造、医疗设备更新。", "en": "Focusing on major diseases, high-level hospitals will be strengthened, and 60 quality provincial hospitals will be supported in raising their clinical diagnosis and treatment levels. Hospitals with outdated ward facilities and equipment will be encouraged to renovate their wards and upgrade their medical equipment."},
+    {"t": "head", "num": "03", "zh": "医疗卫生强基", "en": "Strengthening the Foundations of Medical and Health Services"},
+    {"t": "p", "zh": "支持1000个紧密型县域医共体建设，推进县级医院、重点中心乡镇卫生院提质升级，加强县区医学影像、心电诊断、医学检验、消毒供应、药品供应和药学服务等资源共享。", "en": "Support will be given to building 1,000 tightly integrated county-level medical communities; county-level hospitals and key central township health centers will be upgraded; and resource sharing in county areas will be strengthened in medical imaging, electrocardiogram diagnosis, medical laboratory testing, disinfection supply, pharmaceutical supply and pharmaceutical services."},
+    {"t": "head", "num": "04", "zh": "国家医学中心建设", "en": "Building National Medical Centers"},
+    {"t": "p", "zh": "围绕高水平重点专科方向，支持若干国家医学中心建设，提升疑难危重疾病诊治、临床技术引领、医学科研转化和领军人才培养能力。", "en": "Focusing on high-level key specialty areas, support will be given to building a number of national medical centers in order to enhance capacity in diagnosing and treating difficult and critical diseases, leading clinical technology, translating medical research, and training leading talent."},
+    {"t": "head", "num": "05", "zh": "重点人群医疗服务补短板", "en": "Shoring Up Weak Links in Medical Services for Key Groups"},
+    {"t": "p", "zh": "支持有条件的二级医院提供康复和护理服务。支持省级和重点地市级精神卫生服务机构建设。加强医疗卫生机构儿科服务能力建设。", "en": "Qualified secondary hospitals will be supported in providing rehabilitation and nursing services. Support will be given to building provincial-level and key prefecture-level mental health service institutions. The pediatric service capacity of medical and health institutions will be strengthened."},
+    {"t": "head", "num": "06", "zh": "中医药传承创新", "en": "Inheritance and Innovation of Traditional Chinese Medicine"},
+    {"t": "p", "zh": "支持建设国家中医药传承创新中心、中西医协同旗舰医院和中医优势专科中心，更好发挥中医药独特优势和作用。", "en": "Support will be given to building the National Traditional Chinese Medicine Inheritance and Innovation Center, flagship hospitals of integrated Chinese and Western medicine, and specialty centers for areas where traditional Chinese medicine has strengths, so as to better leverage the unique advantages and role of traditional Chinese medicine."},
+    {"t": "head", "num": "07", "zh": "体育场地设施建设", "en": "Development of Sports Venues and Facilities"},
+    {"t": "p", "zh": "实施群众运动空间扩容计划，鼓励有条件的地方挖掘“金角银边”，建设更加便利可及的体育设施。以足球等为重点，支持青少年竞技体育训练设施建设。推动建设冰雪、山地等100个高质量户外运动目的地。", "en": "A plan to expand public sports space will be implemented; localities with suitable conditions will be encouraged to tap “golden corners and silver edges”, and more convenient and accessible sports facilities will be built. With football and other sports as priorities, support will be given to building training facilities for youth competitive sports. The building of 100 high-quality outdoor sports destinations for ice and snow, mountain and other sports will be promoted."}
+  ]
+}

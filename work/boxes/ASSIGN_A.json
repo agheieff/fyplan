@@ -1,0 +1,96 @@
+{
+ "owner": "A",
+ "images": [
+  {
+   "img": 1,
+   "path": "img/01.jpg",
+   "part": 1,
+   "chapter": 3,
+   "out": "work/boxes/box-01.json"
+  },
+  {
+   "img": 2,
+   "path": "img/02.jpg",
+   "part": 2,
+   "chapter": 4,
+   "out": "work/boxes/box-02.json"
+  },
+  {
+   "img": 3,
+   "path": "img/03.jpg",
+   "part": 2,
+   "chapter": 5,
+   "out": "work/boxes/box-03.json"
+  },
+  {
+   "img": 4,
+   "path": "img/04.jpg",
+   "part": 2,
+   "chapter": 7,
+   "out": "work/boxes/box-04.json"
+  },
+  {
+   "img": 5,
+   "path": "img/05.jpg",
+   "part": 2,
+   "chapter": 7,
+   "out": "work/boxes/box-05.json"
+  },
+  {
+   "img": 6,
+   "path": "img/06.jpg",
+   "part": 2,
+   "chapter": 7,
+   "out": "work/boxes/box-06.json"
+  },
+  {
+   "img": 7,
+   "path": "img/07.jpg",
+   "part": 2,
+   "chapter": 7,
+   "out": "work/boxes/box-07.json"
+  },
+  {
+   "img": 8,
+   "path": "img/08.jpg",
+   "part": 2,
+   "chapter": 7,
+   "out": "work/boxes/box-08.json"
+  },
+  {
+   "img": 9,
+   "path": "img/09.jpg",
+   "part": 3,
+   "chapter": 8,
+   "out": "work/boxes/box-09.json"
+  },
+  {
+   "img": 10,
+   "path": "img/10.jpg",
+   "part": 3,
+   "chapter": 9,
+   "out": "work/boxes/box-10.json"
+  },
+  {
+   "img": 11,
+   "path": "img/11.jpg",
+   "part": 4,
+   "chapter": 13,
+   "out": "work/boxes/box-11.json"
+  },
+  {
+   "img": 12,
+   "path": "img/12.jpg",
+   "part": 7,
+   "chapter": 21,
+   "out": "work/boxes/box-12.json"
+  },
+  {
+   "img": 13,
+   "path": "img/13.jpg",
+   "part": 8,
+   "chapter": 26,
+   "out": "work/boxes/box-13.json"
+  }
+ ]
+}

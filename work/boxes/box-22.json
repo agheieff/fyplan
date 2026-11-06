@@ -1,0 +1,22 @@
+{
+  "img": 22,
+  "file": "img/22.jpg",
+  "kind": "box",
+  "number": 20,
+  "title_zh": "碳达峰碳中和",
+  "title_en": "Carbon Peaking and Carbon Neutrality",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "重点行业领域节能降碳", "en": "Energy Conservation and Carbon Reduction in Key Industries and Fields"},
+    {"t": "p", "zh": "加大火电、钢铁、有色、石化、化工、建材等重点行业领域节能降碳改造力度，推广普及节能低碳技术，实现节能量1.5亿吨标准煤以上，公共机构单位建筑面积能耗降低5%。", "en": "Greater efforts will be made to upgrade key industries and fields such as thermal power, steel, non-ferrous metals, petrochemicals, chemicals and building materials for energy conservation and carbon reduction; energy-saving and low-carbon technologies will be promoted and applied; energy savings of more than 150 million tonnes of standard coal equivalent will be achieved; and energy consumption per unit of floor area in public institutions will be reduced by 5 percent."},
+    {"t": "head", "num": "02", "zh": "煤炭消费清洁替代", "en": "Clean Substitution of Coal Consumption"},
+    {"t": "p", "zh": "建设一批生物质掺烧、绿氨掺烧等煤电机组低碳化改造示范项目，全面实施煤化工低碳化改造项目，推进食品、纺织、造纸等行业燃煤锅炉和工业窑炉清洁化替代，推动煤炭消费量替代达到3000万吨/年。", "en": "A number of demonstration projects for low-carbon upgrading of coal-fired power units, such as co-firing of biomass and co-firing of green ammonia, will be built; low-carbon upgrading projects in the coal chemical industry will be fully implemented; clean substitution of coal-fired boilers and industrial kilns in industries such as food, textiles and papermaking will be advanced; and substitution of coal consumption will reach 30 million tonnes per year."},
+    {"t": "head", "num": "03", "zh": "零碳园区和零碳运输走廊建设", "en": "Development of Zero-Carbon Parks and Zero-Carbon Transport Corridors"},
+    {"t": "p", "zh": "发展以绿色能源制造绿色产品模式，因地制宜发展绿电直供，建设100个左右国家级零碳园区。以货运量集中的运输通道为重点，建设充换电、氢氨醇加注、光储一体等设施，建设一批零碳运输走廊示范路段（航段）。", "en": "The model of manufacturing green products with green energy will be developed; direct supply of green electricity will be developed according to local conditions; and about 100 national-level zero-carbon parks will be built. Focusing on transport corridors with concentrated freight volumes, facilities such as battery charging and swapping, hydrogen, ammonia and methanol refueling, and integrated solar power generation and storage will be built, and a number of demonstration sections (shipping routes) of zero-carbon transport corridors will be developed."},
+    {"t": "head", "num": "04", "zh": "循环经济助力降碳", "en": "Circular Economy Support for Carbon Reduction"},
+    {"t": "p", "zh": "完善废弃物精细回收循环、再生资源加工利用、高品质再生材料推广应用体系，提升废弃电器电子产品、废旧动力电池、退役风电光伏设备、报废汽车等产品高值化规范化利用水平，主要资源产出率提高16%左右。", "en": "The systems for refined collection and recycling of waste, processing and utilization of renewable resources, and promotion and application of high-quality recycled materials will be improved; the high-value and standardized utilization of products such as waste electrical and electronic equipment, used power batteries, decommissioned wind and solar power equipment and end-of-life vehicles will be raised; and the output rate of major resources will increase by about 16 percent."},
+    {"t": "head", "num": "05", "zh": "非二氧化碳温室气体减排", "en": "Reduction of Non-CO2 Greenhouse Gas Emissions"},
+    {"t": "p", "zh": "在煤矿开采、种植养殖、废物处理、化工品生产等领域实施甲烷、氧化亚氮、氢氟碳化物等非二氧化碳温室气体治理工程，推动形成3000万吨二氧化碳当量减排能力。", "en": "In fields such as coal mining, crop cultivation and livestock breeding, waste treatment and chemical production, projects to control non-CO2 greenhouse gases such as methane, nitrous oxide and hydrofluorocarbons will be implemented, and the capacity to reduce emissions by 30 million tonnes of CO2 equivalent will be developed."},
+    {"t": "head", "num": "06", "zh": "碳达峰碳中和基础能力提升", "en": "Enhancing the Basic Capacity for Carbon Peaking and Carbon Neutrality"},
+    {"t": "p", "zh": "建设国家碳排放数据综合管理系统、国家温室气体排放因子数据库、国家碳计量实验室。加强二氧化碳捕集和生物消纳技术创新及工程化应用，支持碳捕集利用与封存示范项目建设。", "en": "The national comprehensive carbon emission data management system, the national database of greenhouse gas emission factors and the national carbon metrology laboratory will be built. Innovation in and engineering application of carbon dioxide capture and biological carbon sequestration technologies will be strengthened, and the construction of carbon capture, utilization and storage demonstration projects will be supported."}
+  ]
+}

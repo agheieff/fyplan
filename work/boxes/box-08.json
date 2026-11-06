@@ -1,0 +1,20 @@
+{
+  "img": 8,
+  "file": "img/08.jpg",
+  "kind": "box",
+  "number": 7,
+  "title_zh": "新型基础设施建设",
+  "title_en": "Building New Infrastructure",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "全国一体化算力网", "en": "National Integrated Computing Power Network"},
+    {"t": "p", "zh": "建设新一代超算、通算、智算设施体系，积极发展公有云服务。建设算力监测调度平台，制定完善算力资源池化、并网、监测、运营、调度等标准规范。", "en": "Build a new-generation system of supercomputing, general computing and intelligent computing facilities, and actively develop public cloud services. Build a computing power monitoring and scheduling platform, and formulate and improve standards and specifications for computing power resource pooling, grid connection, monitoring, operation and scheduling."},
+    {"t": "head", "num": "02", "zh": "卫星互联网", "en": "Satellite Internet"},
+    {"t": "p", "zh": "统筹推进卫星互联网星座建设，提升发射测控保障和安全防护能力，加快卫星互联网和北斗在重点行业、大众消费等领域规模化应用和国际化推广。强化多用户需求统筹协调，推进遥感卫星共建和数据共享共用，构建空天地一体、通导感算融合的综合服务体系。", "en": "Take coordinated steps to advance the construction of satellite internet constellations and enhance launch, tracking, telemetry and command support and security protection capabilities; accelerate the large-scale application and international promotion of satellite internet and BeiDou in key industries, mass consumer markets and other fields. Strengthen the overall coordination of multi-user demand, advance the co-construction of remote sensing satellites and the sharing and common use of data, and build a comprehensive service system that integrates space, air and ground and combines communications, navigation, sensing and computing."},
+    {"t": "head", "num": "03", "zh": "信息通信网络", "en": "Information and Communications Networks"},
+    {"t": "p", "zh": "推进万兆光网部署应用，建设100万个高速无源光网络（50G PON）端口。加快5G-A移动通信网络规模商用，建设5G-A基站50万个，加强6G技术研发、标准研制和应用验证。提升骨干传输网络能力，推进海缆建设国际合作。实施电信普遍服务，提升边疆地区宽带网络覆盖水平。", "en": "Advance the deployment and application of 10-gigabit optical networks and build 1 million high-speed passive optical network (50G PON) ports. Accelerate the large-scale commercial use of 5G-A mobile communications networks, build 500,000 5G-A base stations, and strengthen 6G technology R&D, standards development and application verification. Enhance the capacity of backbone transmission networks and advance international cooperation in submarine cable construction. Implement universal telecommunications services and improve broadband network coverage in border areas."},
+    {"t": "head", "num": "04", "zh": "数据基础设施", "en": "Data Infrastructure"},
+    {"t": "p", "zh": "构建统一目录标识、身份认证、接入管理的数据流通利用设施体系和数据安全防护平台，布局建设数据标注、流通、交付、应用基地和高速数据传输网络。", "en": "Build a data circulation and utilization facility system and a data security protection platform with unified directory identification, identity authentication and access management, and lay out and build bases for data annotation, circulation, delivery and application as well as high-speed data transmission networks."},
+    {"t": "head", "num": "05", "zh": "低空基础设施", "en": "Low-altitude Infrastructure"},
+    {"t": "p", "zh": "以场景拓展为牵引，科学划设低空航路，沿航路布设起降及通信导航监视气象等基础设施。推动低空智能网联系统、重点区域部位低空安全防护能力等建设。", "en": "With scenario expansion as the driver, scientifically designate low-altitude air routes and deploy takeoff and landing, communications, navigation, surveillance, meteorological and other infrastructure along the routes. Advance the construction of low-altitude intelligent networked systems and low-altitude security protection capabilities at key regional locations."}
+  ]
+}

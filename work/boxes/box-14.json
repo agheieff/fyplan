@@ -1,0 +1,18 @@
+{
+  "img": 14,
+  "file": "img/14.jpg",
+  "kind": "box",
+  "number": 13,
+  "title_zh": "城市更新和都市圈建设",
+  "title_en": "Urban Renewal and Metropolitan Area Development",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "地下管网建设改造", "en": "Construction and Renovation of Underground Pipelines"},
+    {"t": "p", "zh": "建设改造城镇燃气管网约20万公里、排水管网约17.5万公里、供水管网约17.5万公里、污水管网约10万公里、供热管网约12万公里，同步推进智慧化改造。因地制宜建设综合管廊。", "en": "Construction and renovation will cover about 200,000 km of urban gas pipelines, about 175,000 km of drainage pipelines, about 175,000 km of water supply pipelines, about 100,000 km of sewage pipelines and about 120,000 km of heating pipelines, with smart upgrading carried out in step. Integrated utility tunnels will be built according to local conditions."},
+    {"t": "head", "num": "02", "zh": "宜居安居水平提升", "en": "Improvement of Livable and Secure Housing"},
+    {"t": "p", "zh": "以国有土地上C、D级危险住房等为重点，改造城镇危旧房约50万套（间）。改造老旧小区约11.5万个。在全面摸清需求基础上，因地制宜多渠道发展保障性住房。平稳有序推进城中村改造。", "en": "Focusing on Class C and Class D dangerous housing on state-owned land and other such housing, about 500,000 units (rooms) of old and dilapidated urban housing will be renovated. About 115,000 old residential communities will be upgraded. On the basis of a comprehensive survey of needs, government-subsidized housing will be developed through multiple channels in light of local conditions. Urban village redevelopment will be advanced steadily and in an orderly manner."},
+    {"t": "head", "num": "03", "zh": "老旧街区厂区改造", "en": "Renovation of Old Neighborhoods and Factory Areas"},
+    {"t": "p", "zh": "推动老旧街区功能转换、业态升级、活力提升，以市场化方式盘活利用闲置低效厂区、厂房和设施，更新改造约1500个老旧街区厂区。", "en": "Old neighborhoods will be guided toward functional transformation, business upgrading and greater vitality; idle and inefficiently used factory areas, plants and facilities will be revitalized and put to use on a market basis; and about 1,500 old neighborhoods and factory areas will be renovated and upgraded."},
+    {"t": "head", "num": "04", "zh": "都市圈城际通勤效率提升", "en": "Improvement of Intercity Commuting Efficiency in Metropolitan Areas"},
+    {"t": "p", "zh": "建成北京至滨海新区、深圳至大亚湾等城际铁路，利用既有铁路开行城际和市域（郊）列车。建设一批国家高速公路都市圈环线及绕城环线待贯通路段。", "en": "Intercity railways such as the Beijing–Binhai New Area and Shenzhen–Daya Bay lines will be completed, and intercity and city (suburban) trains will be operated on existing railways. A number of missing sections of national expressway metropolitan loops and urban ring roads will be built."}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "img": 7,
+  "file": "img/07.jpg",
+  "kind": "box",
+  "number": 6,
+  "title_zh": "现代化水网建设",
+  "title_en": "Building a Modern Water Network",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "防洪减灾", "en": "Flood Control and Disaster Reduction"},
+    {"t": "p", "zh": "建设长江两湖重点堤防加固、黄河上游干流堤防加固、淮河干流行洪区治理、海河骨干河道防洪治理等工程和黄河古贤、福建上白石、广东黄茅峡等防洪水库，研究论证推进黄河黑山峡河段开发工程和永定河官厅山峡、拒马河张坊等防洪工程。以北方地区为重点开展暴雨山洪减灾体系建设。加强国家蓄滞洪区建设。", "en": "Build projects such as reinforcement of key dikes at the Two Lakes on the Yangtze River, reinforcement of dikes on the upper Yellow River main stream, regulation of the Huai River main stream flood-diversion areas and flood control improvement of the Hai River's major channels, as well as flood-control reservoirs such as Guxian on the Yellow River, Shangbaishi in Fujian and Huangmaoxia in Guangdong; study, demonstrate and advance the Heishanxia reach development project on the Yellow River and flood-control projects such as Guanting Gorge on the Yongding River and Zhangfang on the Juma River. Build a rainstorm and flash flood disaster reduction system with the northern region as the focus. Strengthen the construction of national flood storage and detention areas."},
+    {"t": "head", "num": "02", "zh": "重大引调水", "en": "Major Water Diversion Projects"},
+    {"t": "p", "zh": "建设南水北调东线二期、南水北调中线引江补汉、辽东半岛水资源配置、四川引大济岷、云南滇中引水二期、浙江浙中水资源配置、安徽引江济淮二期等工程。推进闽西南水资源配置工程前期工作。研究论证南水北调西线工程。", "en": "Build projects such as Phase II of the eastern route of the South-to-North Water Diversion, the Yangtze-to-Han water supplementation project on the middle route of the South-to-North Water Diversion, the Liaodong Peninsula water resources allocation project, Sichuan's Yinda-Jimin water diversion, Phase II of Yunnan's central water diversion, Zhejiang's central water resources allocation project and Phase II of Anhui's Yangtze-to-Huai water diversion. Advance preliminary work on the southwest Fujian water resources allocation project. Study and demonstrate the western route of the South-to-North Water Diversion."},
+    {"t": "head", "num": "03", "zh": "供水灌溉", "en": "Water Supply and Irrigation"},
+    {"t": "p", "zh": "推进安徽淠史杭、四川都江堰、内蒙古河套、新疆叶尔羌河、山东位山、宁夏青铜峡等大型灌区整装现代化改造，建设广东雷州半岛、广西邕北、重庆玉滩等大中型灌区和陕西焦岩、贵州玉龙等水源水库。建设鄱阳湖水利枢纽工程，发挥生态和供水灌溉等综合效益。研究论证洞庭湖城陵矶水利枢纽工程。", "en": "Advance the comprehensive modernization of large irrigation districts such as Pishihang in Anhui, Dujiangyan in Sichuan, Hetao in Inner Mongolia, the Yarkant River in Xinjiang, Weishan in Shandong and Qingtongxia in Ningxia, and build large and medium-sized irrigation districts such as the Leizhou Peninsula in Guangdong, Yongbei in Guangxi and Yutan in Chongqing, as well as water source reservoirs such as Jiaoyan in Shaanxi and Yulong in Guizhou. Build the Poyang Lake water conservancy hub project and give full play to its comprehensive benefits in ecology, water supply and irrigation. Study and demonstrate the Chenglingji water conservancy hub project on Dongting Lake."}
+  ]
+}

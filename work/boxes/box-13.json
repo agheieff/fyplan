@@ -1,0 +1,20 @@
+{
+  "img": 13,
+  "file": "img/13.jpg",
+  "kind": "box",
+  "number": 12,
+  "title_zh": "农业农村现代化建设",
+  "title_en": "Modernization of Agriculture and Rural Areas",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "高标准农田建设", "en": "High-standard Farmland Construction"},
+    {"t": "p", "zh": "优先把东北黑土地区、平原地区、具备水利灌溉条件地区以及粮食产量高且增产潜力大地区的永久基本农田建成高标准农田，将720个粮食产能提升重点县具备条件的永久基本农田全部建成高标准农田。", "en": "Give priority to turning permanent basic farmland in the black soil region of northeast China, in plain areas, in areas with irrigation conditions, and in areas with high grain output and great potential for increasing output into high-standard farmland, and turn all eligible permanent basic farmland in the 720 key counties for grain production capacity improvement into high-standard farmland."},
+    {"t": "head", "num": "02", "zh": "现代种业发展", "en": "Development of the Modern Seed Industry"},
+    {"t": "p", "zh": "建设完善国家农作物、畜禽、水产、林草、微生物种质资源保护利用体系，优化品种测试评价体系，建设种业创新基地、育制种基地，加强突破性重大品种培育，推动农业核心种源自给率达到85%。", "en": "Build and improve the national system for the protection and utilization of crop, livestock and poultry, aquatic, forest and grass, and microbial germplasm resources; optimize the variety testing and evaluation system; build seed industry innovation bases and seed breeding and production bases; strengthen the cultivation of breakthrough major varieties; and push the self-sufficiency rate of core agricultural seed sources to 85%."},
+    {"t": "head", "num": "03", "zh": "动植物疫情疫病防控", "en": "Prevention and Control of Animal and Plant Epidemics and Diseases"},
+    {"t": "p", "zh": "健全农作物病虫害和动物疫病监测预警体系，提升动植物疫病防治、应急处置、隔离检疫和无害化处理等全链条管理能力，强化农药兽药监测评价等技术支撑。", "en": "Improve the monitoring and early warning system for crop pests and diseases and animal epidemics, enhance full-chain management capabilities for the prevention and control of animal and plant diseases, emergency response, quarantine and harmless treatment, and strengthen technical support such as the monitoring and evaluation of pesticides and veterinary drugs."},
+    {"t": "head", "num": "04", "zh": "农业面源污染治理", "en": "Treatment of Agricultural Non-point Source Pollution"},
+    {"t": "p", "zh": "以长江、黄河等流域为重点，实施农业面源污染综合治理，统筹推进化肥农药科学施用、畜禽粪污等农业废弃物资源化利用。", "en": "Focusing on the Yangtze River, the Yellow River and other river basins, implement comprehensive treatment of agricultural non-point source pollution, and make coordinated progress in the scientific application of chemical fertilizers and pesticides and the resource utilization of agricultural waste such as livestock and poultry manure."},
+    {"t": "head", "num": "05", "zh": "农村现代生活条件补短板", "en": "Filling Weak Links in Modern Living Conditions in Rural Areas"},
+    {"t": "p", "zh": "支持符合条件的村庄因地制宜补齐村内道路、供排水、卫生厕所改造、生活垃圾和污水处理、养老服务设施等短板。", "en": "Support eligible villages in filling weak links such as intra-village roads, water supply and drainage, sanitary toilet renovation, domestic waste and sewage treatment, and elderly care service facilities in light of local conditions."}
+  ]
+}

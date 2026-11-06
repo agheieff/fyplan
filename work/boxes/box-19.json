@@ -1,0 +1,20 @@
+{
+  "img": 19,
+  "file": "img/19.jpg",
+  "kind": "box",
+  "number": 17,
+  "title_zh": "“一老一小”服务优化提升",
+  "title_en": "Optimizing and Improving Services for “the Elderly and Children”",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "养老机构提质增效", "en": "Improving the Quality and Efficiency of Elderly Care Institutions"},
+    {"t": "p", "zh": "对建成时间较长、设施老旧的公办养老机构，以护理型床位改造和设施设备更新等为重点，鼓励通过公建民营等方式，推动2000个公办养老机构达到二级以上标准，提升设施安全水平。在有条件的综合性养老服务机构推广应用智能服务系统、智能辅助器具、智慧消防安防系统等。", "en": "For public elderly care institutions that were built long ago and have outdated facilities, with emphasis on converting beds into nursing-care beds and renewing facilities and equipment, and by encouraging such models as public construction with private operation, 2,000 public elderly care institutions will be brought up to Class II standards or above and the safety level of their facilities will be raised. Smart service systems, smart assistive devices, smart fire protection and security systems, and the like will be promoted and applied in qualified comprehensive elderly care service institutions."},
+    {"t": "head", "num": "02", "zh": "社区养老服务提升", "en": "Improving Community-Based Elderly Care Services"},
+    {"t": "p", "zh": "推进社区养老服务设施补短板，增强照护服务能力和养老服务功能，社区养老服务机构和服务设施覆盖率达到70%。", "en": "Community-based elderly care service facilities will be strengthened where they fall short, their caregiving capacity and elderly care service functions will be enhanced, and the coverage rate of community-based elderly care service institutions and facilities will reach 70 percent."},
+    {"t": "head", "num": "03", "zh": "医养结合能力提升", "en": "Enhancing Integrated Medical and Elderly Care Capacity"},
+    {"t": "p", "zh": "支持有条件的综合性医院发展医养结合服务。支持有需求的乡镇卫生院完善设施条件，扩大失能失智老年人照护服务供给。", "en": "Qualified comprehensive hospitals will be supported in developing integrated medical and elderly care services. Township health centers that have needs will be supported in improving their facilities, and the supply of caregiving services for disabled and cognitively impaired elderly people will be expanded."},
+    {"t": "head", "num": "04", "zh": "普惠托育扩容提质", "en": "Expanding and Improving Affordable Childcare Services"},
+    {"t": "p", "zh": "以城市为单元整体推进普惠托育服务发展，推进托育综合服务中心布局和社区普惠托育设施、托幼一体机构改扩建，实现地市级托育综合服务中心全覆盖。", "en": "The development of affordable childcare services will be advanced by city as a unit through coordinated planning; the layout of comprehensive childcare service centers will be improved and community affordable childcare facilities and integrated childcare and preschool institutions will be renovated and expanded, so that comprehensive childcare service centers will cover all prefecture-level cities."},
+    {"t": "head", "num": "05", "zh": "生育医疗服务提升", "en": "Improving Maternity Medical Services"},
+    {"t": "p", "zh": "升级改造10个国家区域生殖健康中心，实现每个省份至少建成一所高水平妇幼保健机构。推动助产机构提升服务水平。", "en": "Ten national regional reproductive health centers will be upgraded and renovated, and every province will have at least one high-level maternal and child health institution. Midwifery institutions will be encouraged to raise their service levels."}
+  ]
+}

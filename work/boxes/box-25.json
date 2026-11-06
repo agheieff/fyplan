@@ -1,0 +1,60 @@
+{
+  "img": 25,
+  "file": "img/25.jpg",
+  "kind": "figure",
+  "number": 3,
+  "title_zh": "重要生态系统保护和修复重大工程布局图",
+  "title_en": "Layout of Major Projects for the Protection and Restoration of Important Ecosystems",
+  "blocks": [
+    {
+      "t": "subhead",
+      "zh": "图例",
+      "en": "Legend"
+    },
+    {
+      "t": "p",
+      "zh": "“三北”工程区",
+      "en": "the “Three-North” Shelterbelt Program area"
+    },
+    {
+      "t": "p",
+      "zh": "黄河重点生态区",
+      "en": "the Yellow River key ecological area"
+    },
+    {
+      "t": "p",
+      "zh": "青藏高原生态屏障区",
+      "en": "the Qinghai-Tibet Plateau ecological barrier area"
+    },
+    {
+      "t": "p",
+      "zh": "长江重点生态区",
+      "en": "the Yangtze River key ecological area"
+    },
+    {
+      "t": "p",
+      "zh": "南方丘陵山地带",
+      "en": "the southern hilly and mountainous belt"
+    },
+    {
+      "t": "p",
+      "zh": "北方防沙带",
+      "en": "the northern sand prevention belt"
+    },
+    {
+      "t": "p",
+      "zh": "东北森林带",
+      "en": "the northeast forest belt"
+    },
+    {
+      "t": "p",
+      "zh": "海岸带保护修复",
+      "en": "coastal zone protection and restoration"
+    },
+    {
+      "t": "p",
+      "zh": "比例尺 1 : 27 500 000",
+      "en": "Scale 1:27,500,000"
+    }
+  ]
+}

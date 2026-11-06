@@ -1,0 +1,22 @@
+{
+  "img": 2,
+  "file": "img/02.jpg",
+  "kind": "box",
+  "number": 2,
+  "title_zh": "产业基础能力和竞争力提升",
+  "title_en": "Enhancing Industrial Foundations and Competitiveness",
+  "blocks": [
+    {"t": "head", "num": "01", "zh": "高端新材料", "en": "High-end New Materials"},
+    {"t": "p", "zh": "加快高端特殊钢、高品质高温合金、超高纯金属、先进陶瓷、高纯石英材料、生物基材料、先进高分子材料、高性能纤维及复合材料、结构功能一体化材料等创新突破，推进稀土功能材料、稀有金属材料、超硬材料、轻质高强合金等提质升级，加强超导材料、超材料等前沿材料研究应用。", "en": "Accelerate innovative breakthroughs in high-end special steel, high-quality superalloys, ultra-high-purity metals, advanced ceramics, high-purity quartz materials, bio-based materials, advanced polymer materials, high-performance fibers and composites, and structure-function integrated materials; upgrade rare earth functional materials, rare metal materials, superhard materials, and lightweight high-strength alloys; and strengthen the research and application of frontier materials such as superconducting materials and metamaterials."},
+    {"t": "head", "num": "02", "zh": "基础零部件和元器件", "en": "Basic Parts and Components"},
+    {"t": "p", "zh": "加快高速精密轴承、高参数齿轮与传动装置、高可靠性液压气动密封件、高性能电机及控制系统、高精度丝杠等核心基础零部件攻关。研制一批连接类、传感类、功能材料类、光电类等先进通用基础元器件。", "en": "Accelerate breakthroughs in core basic parts such as high-speed precision bearings, high-parameter gears and transmission devices, high-reliability hydraulic and pneumatic seals, high-performance motors and control systems, and high-precision lead screws. Develop a range of advanced general-purpose basic components, including connection, sensing, functional material and optoelectronic types."},
+    {"t": "head", "num": "03", "zh": "基础软件和工业软件", "en": "Basic Software and Industrial Software"},
+    {"t": "p", "zh": "聚焦国产操作系统、数据库、中间件、编程语言及编译器、开发测试工具、云计算软件等基础软件，以及研发设计类、生产控制类、经营管理类等工业软件，全链条推动技术攻关和成果应用。", "en": "Focus on basic software such as domestic operating systems, databases, middleware, programming languages and compilers, development and testing tools, and cloud computing software, as well as industrial software for R&D and design, production control, and operation and management, and promote technological breakthroughs and the application of results across the entire chain."},
+    {"t": "head", "num": "04", "zh": "工业母机", "en": "Industrial Mother Machines"},
+    {"t": "p", "zh": "重点研制具备高速、高精密、复合一体化特征的高端数控机床等加工装备，提升智能数控系统、精密测量、功能部件配套能力。", "en": "Focus on developing high-end CNC machine tools and other processing equipment featuring high speed, high precision and integrated compound functions, and enhance the supporting capabilities of intelligent CNC systems, precision measurement and functional components."},
+    {"t": "head", "num": "05", "zh": "高端仪器仪表", "en": "High-end Instruments and Meters"},
+    {"t": "p", "zh": "加强在线高效智能检测、极端环境调节控制、高性能流量测量等重点行业应用仪器仪表研发，推进量子计量、原位计量等新型计量校准仪器仪表攻关。", "en": "Strengthen R&D on instruments and meters used in key industries such as online high-efficiency intelligent testing, extreme-environment regulation and control, and high-performance flow measurement, and advance breakthroughs in new metrology and calibration instruments such as quantum metrology and in-situ metrology instruments."},
+    {"t": "head", "num": "06", "zh": "重大技术装备", "en": "Major Technical Equipment"},
+    {"t": "p", "zh": "推进大型邮轮、大型液化天然气运输船等研发设计制造和CR450高速度等级中国标准动车组试验应用，推动大型特种冶炼设备、重大石化化工成套装备、电子专用设备等研发和产业化，加快谱系化燃气轮机、高水头大容量水轮发电机组等攻关突破，推进高端智能、丘陵山区适用农机装备研发应用。", "en": "Advance the R&D, design and manufacture of large cruise ships, large liquefied natural gas carriers and other vessels, and the trial application of CR450 high-speed China-standard electric multiple units; promote the R&D and industrialization of large special smelting equipment, major petrochemical and chemical complete equipment, and special electronic equipment; accelerate breakthroughs in series gas turbines and high-head, large-capacity hydro-generator units; and promote the R&D and application of high-end intelligent agricultural machinery suited to hilly and mountainous areas."}
+  ]
+}

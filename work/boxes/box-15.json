@@ -1,0 +1,60 @@
+{
+  "img": 15,
+  "file": "img/15.jpg",
+  "kind": "figure",
+  "number": 2,
+  "title_zh": "中国世界遗产分布图",
+  "title_en": "Distribution of World Heritage Sites in China",
+  "blocks": [
+    {
+      "t": "subhead",
+      "zh": "图例",
+      "en": "Legend"
+    },
+    {
+      "t": "p",
+      "zh": "世界文化遗产",
+      "en": "World Cultural Heritage"
+    },
+    {
+      "t": "p",
+      "zh": "世界文化遗产（系列遗产）",
+      "en": "World Cultural Heritage (serial property)"
+    },
+    {
+      "t": "p",
+      "zh": "世界自然遗产",
+      "en": "World Natural Heritage"
+    },
+    {
+      "t": "p",
+      "zh": "世界自然遗产（系列遗产）",
+      "en": "World Natural Heritage (serial property)"
+    },
+    {
+      "t": "p",
+      "zh": "世界自然文化双遗产",
+      "en": "World Natural and Cultural Heritage (mixed property)"
+    },
+    {
+      "t": "p",
+      "zh": "长城",
+      "en": "the Great Wall"
+    },
+    {
+      "t": "p",
+      "zh": "大运河",
+      "en": "the Grand Canal"
+    },
+    {
+      "t": "p",
+      "zh": "丝绸之路",
+      "en": "the Silk Road"
+    },
+    {
+      "t": "p",
+      "zh": "比例尺 1 : 27 000 000",
+      "en": "Scale 1:27,000,000"
+    }
+  ]
+}

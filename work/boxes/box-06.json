@@ -1,0 +1,18 @@
+{
+  "img": 6,
+  "file": "img/06.jpg",
+  "kind": "figure",
+  "number": 1,
+  "title_zh": "清洁能源基地布局示意图",
+  "title_en": "Schematic Layout of Clean Energy Bases",
+  "blocks": [
+    {"t": "subhead", "zh": "图例", "en": "Legend"},
+    {"t": "p", "zh": "“沙戈荒”等新能源基地", "en": "New energy bases in “desert, gobi and wasteland” areas and other areas"},
+    {"t": "p", "zh": "西南水风光基地", "en": "Hydropower-wind-solar bases in southwest China"},
+    {"t": "p", "zh": "海上风电基地", "en": "Offshore wind power bases"},
+    {"t": "p", "zh": "沿海核电基地", "en": "Coastal nuclear power bases"},
+    {"t": "p", "zh": "跨省跨区输电通道", "en": "Cross-provincial and cross-regional power transmission corridors"},
+    {"t": "p", "zh": "区域电网间电力互济工程", "en": "Mutual power support projects between regional power grids"},
+    {"t": "p", "zh": "注：电力流受端区域以不同颜色区分。", "en": "Note: The receiving areas of power flows are distinguished by different colors."}
+  ]
+}

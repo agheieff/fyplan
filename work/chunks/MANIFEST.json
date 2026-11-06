@@ -1,0 +1,122 @@
+{
+ "T1": [
+  {
+   "part": 1,
+   "file": "work/chunks/part-01.json",
+   "blocks": 33,
+   "zh_chars": 4305
+  },
+  {
+   "part": 2,
+   "file": "work/chunks/part-02.json",
+   "blocks": 36,
+   "zh_chars": 3990
+  },
+  {
+   "part": 3,
+   "file": "work/chunks/part-03.json",
+   "blocks": 34,
+   "zh_chars": 3519
+  }
+ ],
+ "T2": [
+  {
+   "part": 4,
+   "file": "work/chunks/part-04.json",
+   "blocks": 26,
+   "zh_chars": 2484
+  },
+  {
+   "part": 5,
+   "file": "work/chunks/part-05.json",
+   "blocks": 28,
+   "zh_chars": 3296
+  },
+  {
+   "part": 6,
+   "file": "work/chunks/part-06.json",
+   "blocks": 26,
+   "zh_chars": 3450
+  }
+ ],
+ "T3": [
+  {
+   "part": 7,
+   "file": "work/chunks/part-07.json",
+   "blocks": 34,
+   "zh_chars": 3877
+  },
+  {
+   "part": 8,
+   "file": "work/chunks/part-08.json",
+   "blocks": 26,
+   "zh_chars": 2575
+  },
+  {
+   "part": 9,
+   "file": "work/chunks/part-09.json",
+   "blocks": 44,
+   "zh_chars": 4944
+  }
+ ],
+ "T4": [
+  {
+   "part": 10,
+   "file": "work/chunks/part-10.json",
+   "blocks": 30,
+   "zh_chars": 2658
+  },
+  {
+   "part": 11,
+   "file": "work/chunks/part-11.json",
+   "blocks": 38,
+   "zh_chars": 4198
+  },
+  {
+   "part": 12,
+   "file": "work/chunks/part-12.json",
+   "blocks": 50,
+   "zh_chars": 4861
+  }
+ ],
+ "T5": [
+  {
+   "part": 13,
+   "file": "work/chunks/part-13.json",
+   "blocks": 34,
+   "zh_chars": 3657
+  },
+  {
+   "part": 14,
+   "file": "work/chunks/part-14.json",
+   "blocks": 30,
+   "zh_chars": 3476
+  },
+  {
+   "part": 15,
+   "file": "work/chunks/part-15.json",
+   "blocks": 10,
+   "zh_chars": 1163
+  }
+ ],
+ "T6": [
+  {
+   "part": 16,
+   "file": "work/chunks/part-16.json",
+   "blocks": 6,
+   "zh_chars": 1076
+  },
+  {
+   "part": 17,
+   "file": "work/chunks/part-17.json",
+   "blocks": 14,
+   "zh_chars": 1305
+  },
+  {
+   "part": 18,
+   "file": "work/chunks/part-18.json",
+   "blocks": 20,
+   "zh_chars": 2526
+  }
+ ]
+}
