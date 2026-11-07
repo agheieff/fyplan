@@ -1,208 +1,96 @@
-# 十五五规划纲要 — Chinese / English / Bilingual edition
+# 十五五规划纲要 · China's 15th Five-Year Plan (2026–2030)
 
-Three editions, each in a one-sided and a double-sided version, typeset from the official text of
+Print editions of the *Outline of the 15th Five-Year Plan for National Economic and Social
+Development of the People's Republic of China (2026–2030)*
+(《中华人民共和国国民经济和社会发展第十五个五年规划纲要》), typeset from the official text
+published by Xinhua News Agency on 14 March 2026, in Chinese, in English, and side by side.
 
-> 《中华人民共和国国民经济和社会发展第十五个五年规划纲要》
-> *Outline of the 15th Five-Year Plan for National Economic and Social Development of the People's Republic of China (2026–2030)*
-> Xinhua News Agency, 14 March 2026
+## Download
 
-Source: <http://big5.zlb.gov.cn/gate/big5/www.locpg.gov.cn/20260314/4cab36f71ce14e90957ccd9cebbaf60c/c.html>
-(canonical simplified page: <https://www.locpg.gov.cn/20260314/4cab36f71ce14e90957ccd9cebbaf60c/c.html>)
-
-## The files
-
-| File | Pages | What it is |
+| Edition | One-sided | Double-sided |
 |---|---|---|
-| `15th-Five-Year-Plan_Chinese.pdf` | 101 | Chinese edition (简体中文), A4, 11 pt |
-| `15th-Five-Year-Plan_English.pdf` | 157 | English edition, A4, 10.8 pt |
-| `15th-Five-Year-Plan_Bilingual.pdf` | 143 | Two columns per page — Chinese left, English right, paragraph-by-paragraph; A4, 9.5 pt |
-| `15th-Five-Year-Plan_Chinese_Duplex.pdf` | 103 | Chinese edition for double-sided printing |
-| `15th-Five-Year-Plan_English_Duplex.pdf` | 158 | English edition for double-sided printing |
-| `15th-Five-Year-Plan_Bilingual_Duplex.pdf` | 144 | Bilingual edition for double-sided printing |
+| Chinese (简体中文), 11 pt | [PDF](deliverables/15th-Five-Year-Plan_Chinese.pdf), 101 pages | [PDF](deliverables/15th-Five-Year-Plan_Chinese_Duplex.pdf), 103 pages |
+| English, 10.8 pt | [PDF](deliverables/15th-Five-Year-Plan_English.pdf), 157 pages | [PDF](deliverables/15th-Five-Year-Plan_English_Duplex.pdf), 158 pages |
+| Bilingual, 9.5 pt | [PDF](deliverables/15th-Five-Year-Plan_Bilingual.pdf), 143 pages | [PDF](deliverables/15th-Five-Year-Plan_Bilingual_Duplex.pdf), 144 pages |
 
-The PDFs are in `deliverables/`.
+All are A4. The one-sided PDFs are for reading on screen or printing on one side. The double-sided
+PDFs are for printing on both sides with a long-edge flip: page numbers sit on the outer edge, and
+the contents and page 1 start on a right-hand page. The text and page numbers are otherwise the same.
 
-All three contain: cover, auto-generated contents with page numbers and PDF bookmarks, the
-full 18 篇 / 62 章 / 171 节 text, all 23 专栏 (policy boxes) and 3 maps, running heads and a
-colophon.
+The bilingual edition sets Chinese on the left and English on the right, paragraph by paragraph,
+with the two columns on one baseline grid so that lines run straight across the page.
 
-## What is in the source
+## What is in it
 
-- **57,535 Chinese characters** of body text (excluding the source's own contents list).
-- **23 专栏 (policy boxes)** and **3 图 (maps)** — every one of these is a JPEG in the
-  original article. Per your choice, all 23 boxes (including 专栏 1, the 20-indicator table)
-  were **transcribed and translated into live text**, so the PDF is searchable and the English
-  reader gets them too. The three maps stay as images (you cannot sensibly re-typeset a map),
-  with translated captions and legends printed underneath in the English and bilingual editions.
-- One box (专栏 23, 重点领域安全保障能力提升) is served as a broken image (HTTP 404) by the
-  publisher. It was recovered from a reproduction of the same document on a university site and
-  re-rendered, so nothing is missing.
+- The full text: 18 parts (篇), 62 chapters (章) and 171 sections (节), about 57,500 Chinese
+  characters and 43,000 English words, with contents, PDF bookmarks and running heads.
+- All 23 policy boxes (专栏), including Box 1, the table of 20 main indicators. In the original
+  they are images; here they are transcribed and translated, so the whole document is searchable.
+  Box 23 is a broken image on the official page and was taken from another copy of the same
+  document.
+- The three maps, as images, with translated captions and legends.
 
-## How it was made
+## Source
 
-1. **Extraction** — the article HTML parsed into 547 ordered blocks (篇/章/节/paragraph/`——`
-   item/graphic), with the source's own TOC dropped in favour of a generated one.
-2. **Translation** — the text was split into 18 篇-sized chunks and translated to English
-   against a shared glossary (`work/GLOSSARY.md`) by six parallel translators; the 26 graphics
-   were transcribed and translated by two more. 43,089 English words in total. Every chunk was
-   machine-checked: 521/521 blocks translated, no missing or extra ids, no residual Chinese.
-3. **Typesetting** — XeLaTeX with xeCJK. Chinese in Noto Serif CJK SC (正确 SC face, not JP),
-   English in Noto Serif, headings in Noto Sans / Noto Sans CJK. The bilingual edition uses the
-   Medium weight of the Chinese face, which matches the English column's colour and prints
-   better. Generated by `build.py`;
-   rebuild any time with `python3 build.py`.
+Xinhua News Agency, 14 March 2026, as published by the Liaison Office of the Central People's
+Government in the Hong Kong SAR:
+<https://www.locpg.gov.cn/20260314/4cab36f71ce14e90957ccd9cebbaf60c/c.html>. The page as retrieved
+on 6 November 2026 is kept in `src/simp.html`. The Chinese text is authoritative.
 
-## Editorial decisions worth your review
+## Translation
 
-- **Script**: simplified Chinese, matching the official text.
-- **Bilingual layout**: each source paragraph is one pair, starting level across the two columns.
-  Both columns sit on a single baseline grid, so lines run straight across the page. Column
-  widths are 148 pt / 320 pt with a 20 pt gutter, which is about 15.5 Chinese characters and 69
-  English characters per line and comes close to balancing the two languages. Where one language
-  runs longer, the other column is followed by white space to keep the next pair aligned.
-- **Numbers** were preserved exactly, including 万亿元 / 万亿斤 / 亿吨标准煤 / µg/m³ units and
-  the `—` (no target) cells of 专栏 1.
-- **Terminology**: official English renderings were mandated by the glossary (新质生产力 →
-  *new quality productive forces*, 放管服-style set phrases, 两个确立 → *the "two
-  establishments"*, 全过程人民民主 → *whole-process people's democracy*, etc.).
-  Translators coined renderings where the glossary was silent; a few you may want to overrule:
-  - 自主开放 → *self-initiated opening up*
-  - 数智化 → *digital and intelligent*
-  - 城市体检 → *city health checks*
-  - 内卷式竞争 → *"involution-style" competition*
-  - 全国统一大市场 → *a unified national market*
-  - 专栏 → *Box* (the *pinyin* "zhuanlan" is used only in the colophon)
-- **Sensitive chapters** (篇 16, 17, 18 — democracy and the rule of law, "One Country, Two
-  Systems", plan implementation) were translated literally, with no softening or editorialising.
-- **"percent" vs "%"**: normalised to `%` in running text so it matches the tables.
-- The **colophon** states that the Chinese text is authoritative.
+The English is a machine translation by DeepSeek (V4.1 Flash), made against a shared glossary of
+official renderings ([`work/GLOSSARY.md`](work/GLOSSARY.md)): for example 新质生产力 is *new
+quality productive forces* and 全过程人民民主 is *whole-process people's democracy*. Every
+paragraph was checked to be translated exactly once, with nothing missing or added. It has not
+been read through by a human translator.
 
-## Double-sided editions
+Numbers and units are kept exactly as in the original, and "percent" is written as `%` throughout.
+A few terms have no established rendering and were coined, among them 自主开放 (*self-initiated
+opening up*), 数智化 (*digital and intelligent*) and 城市体检 (*city health checks*).
 
-The `_Duplex` PDFs are for printing on both sides with a long-edge flip. They differ from the
-one-sided PDFs only in two ways:
+## Printing in black and white
 
-- **Mirrored running heads**: on right-hand (odd) pages the page number, and in the bilingual
-  edition the chapter, sit at the right; on left-hand (even) pages they sit at the left. The part
-  title is on the inner edge. Before, both were always at the right, so on the back of each sheet
-  the page number was next to the spine.
-- **Blank backs where needed**: the back of the cover is blank, so the contents start on a right-hand page,
-  and page 1 starts on a right-hand page as well. In the Chinese edition this adds one more blank
-  page, after the one-page contents. This keeps odd page numbers on the front of each sheet.
+The bilingual edition is designed for it: all text and rules are solid black, with hierarchy from
+size and weight rather than colour or tints. Its maps are lightened so the pastel source images
+do not print as speckle; place names stay legible, but the colour coding (such as the site classes
+on Figure 2) cannot survive in black and white. For those, print pages 23, 81 and 116 in colour.
 
-Everything else is unchanged. The left and right margins are equal, so the text block is in the
-same place on both sides. Part openers still start on the next page, not on the next right-hand
-page, because that would add up to 18 blank pages. Checked against the one-sided PDFs: every
-word of every page is in the same place, and the page number is on the outer edge of all 341
-pages that have a running head.
+The Chinese and English editions use a dark red accent and tinted boxes, and show the maps as
+published.
 
-## Review round 3 — bilingual layout rebuilt
+## Limitations
 
-The bilingual edition no longer sets each row as a pair of unbreakable boxes. Each column is
-typeset separately and the two are then zipped line by line into full-width rows, each exactly
-one line tall and carrying its own piece of the rule. This supersedes items 2, 3, 4 and 6 of
-round 2 below. The Chinese and English editions changed only in their policy boxes: an item heading is now
-kept with the line after it (`\nobreak`) rather than requiring four lines of space.
+- Simplified Chinese only.
+- The 60-entry index on Figure 2 (World Heritage Sites) is part of the image and is not
+  translated.
+- The three editions are paginated independently.
 
-- **English spacing**: lines can no longer sit closer than normal leading (9.5/13.2 pt). The old
-  bug was split rows landing about 9.5 pt apart. Paragraphs are no longer cut at sentence
-  boundaries; that only existed because rows could not break across a page. Each pair is now one
-  paragraph, with a uniform gap of 0.72 lines.
-- **Headings**: a heading always keeps at least 3 rows of its text on the same page, or the whole
-  paragraph if it is shorter. No first or last line of a paragraph is left alone in either
-  column. This also holds inside boxes, where it previously failed.
-- **Dividing rule**: stays at one position on every page and runs unbroken through paragraph
-  gaps, section headings, chapter headings (now also split across the columns) and boxes (whose
-  columns are narrowed so the rule lines up). It stops only at Part openers, 专栏 1's table and
-  the three maps.
-- **专栏 1** is now a single table with Chinese and English stacked in each cell, instead of two
-  tables a page apart.
-- **Part openers** start a new page, unless the previous page is under about 28 % full; then they
-  share it (2 places). The earlier layout left a page holding only 4 lines.
-- **English type**: justified with fewer line-end hyphens; quotes and dashes in the Latin font
-  rather than as wide CJK punctuation; curly apostrophes in boxes and titles.
-- **Navigation**: the running head shows the chapter; part opener pages have a page number; PDF
-  bookmarks are a proper Part / Chapter / Section tree (251 entries, previously 80 and flat, with
-  a stray `midgray` in every title); contents links jump to the heading.
+## Building
 
-Checked on the final PDF, every page: no two body lines closer than the leading, in either
-column; no isolated first or last line at a page edge in either column; the rule stops within a page in
-only 2 places, both Part openers (the table and maps each fall at the top of a page); all 266 Chinese and 269 English body paragraphs and all 244 box
-blocks found in the PDF (3 Chinese paragraphs differ only by the PM2.5 subscript, which extraction
-misplaces); all 62 chapter numbers in the contents match their pages; the rule has no lighter
-pixels at any join at 96–600 dpi.
-
-## Review round 2 — what changed
-
-Fixes made after the first review of the bilingual edition (items 2, 3, 4 and 6 superseded by
-round 3):
-
-1. **`\par` artefacts in 篇 titles** — part titles are split over two lines internally; the split
-   marker was leaking into the typeset text (`…奋斗目�标\{}par 高质量推进…`). All three editions
-   were affected. Part titles are now split structurally, with no markup in the text stream.
-   Verified: zero occurrences of `par ` in the extracted text of all three PDFs.
-2. **Gutter rule behaves properly** — it used to be a page-wide vertical line drawn behind the
-   whole page, so it crossed full-width headings, part openers and boxes. It is now built from
-   the paired rows themselves: it **runs continuously** down a run of split text — bridging the
-   spaces between paragraphs and passing straight through 节 headings, since those are split
-   across the two columns too — and it is **cut** wherever a full-width element intervenes
-   (章 heading, 专栏 box, table, map, part opener). Verified page by page.
-3. **Column separation inside 专栏 boxes** — inside a box the columns were sized against the
-   page width instead of the box's inner width, so Chinese and English butted together. Boxes now
-   use their own 33.5 % / 59 % split with a ~7 % gutter and the same per-row rule.
-4. **Paragraph rhythm** — English leading and the gap between paragraph pairs were too close to
-   each other. Leading is now 12.9 pt with a 0.95 em gap between pairs (continuation rows stay
-   tight at 0.05 em), so paragraphs read as paragraphs.
-5. **Orphan headings** — section headings and box item headings now carry a `\needspace`
-   requirement sized to each edition, so a heading is never left alone at the foot of a page.
-   (This also applies inside the breakable boxes.)
-6. **Bilingual part openers** — they were being forced onto their own page, leaving 18 nearly
-   empty pages. They now flow like the Chinese and English editions, which cut the bilingual
-   edition from 185 to 186 pages net while removing most of the white space.
-
-## Black-and-white printing
-
-**Bilingual edition: designed for it.** All text and rules are solid black, with no greys, tints
-or fills, because a mono printer turns those into halftone dots that break up small type and thin
-lines. Hierarchy comes from size and weight. Boxes are a plain frame with no shaded panel or
-colour band. Checked by scanning every text span and vector object for non-black colour (none),
-and by viewing pages through a simulated 1-bit 300 dpi print.
-
-**The three maps remain the weak spot.** They are the only colour left in the file. The source
-maps are pale pastels that print as speckle, so the bilingual edition lightens their tones: the
-background falls to paper white and labels, boundaries and flows stay dark. Hue and geometry are
-unchanged, and each map carries a note saying so. Place labels on 图 1 and 图 3 read well in mono.
-What cannot be recovered is the colour coding itself, such as the site classes on 图 2 and the
-power-flow regions on 图 1, and 图 2's index list is soft because it is a small part of a
-low-resolution image. If those details matter, print pages 23, 81 and 116 in colour.
-
-**Chinese and English editions**: unchanged. They still use the accent colour and tinted boxes,
-and show the maps exactly as published.
-
-## Known limitations
-
-- The translation is a machine-assisted first pass, reviewed chunk by chunk but not
-  line-edited by a human native reviser. Morphology is consistent and idiomatic, but if you
-  want this published, a native read-through of, say, 篇 1 and 篇 14 would be the highest-value
-  check.
-- 图 2 (*Distribution of World Heritage Sites in China*) is a map **plus** a 60-entry index
-  list baked into the image. The map and its caption/legend are translated; the index list
-  remains inside the image (it is transcribed nowhere). Say the word and it becomes a table.
-- Long chapter titles wrap differently between the three editions; the pages are not
-  cross-paginated (i.e. page 40 of the Chinese PDF is not page 40 of the English one).
-- No traditional-Chinese edition was produced — 繁體 is a one-line change if you want it.
-
-## Reproducing
+Requirements: XeLaTeX (TeX Live with `xeCJK`, `fancyhdr`, `tcolorbox`, `titlesec`, `needspace`,
+`eso-pic`), the Noto Serif, Noto Sans and Noto CJK fonts (the CJK fonts are read from
+`/usr/share/fonts/noto-cjk/`), Python 3 with Pillow and NumPy, and `pdfinfo` (Poppler).
 
 ```bash
-cd ~/fyplan
-python3 build.py               # all six
-python3 build.py bi bi-duplex  # just the bilingual, one-sided and double-sided
+python3 build.py                # all six editions
+python3 build.py bi bi-duplex   # one edition, one-sided and double-sided
 ```
 
-Inputs live in `work/` (source model, per-篇 English JSON, per-graphic box JSON); LaTeX and
-PDFs land in `out/` (`zh`, `en`, `bi` and `zh-duplex`, `en-duplex`, `bi-duplex`). The bilingual build needs Pillow and NumPy for the print-toned maps.
+The editions are `zh`, `en` and `bi`, each with a `-duplex` variant. The LaTeX and PDFs are
+written to `out/`; the PDFs in `deliverables/` are copies of these.
 
----
+| Path | Contents |
+|---|---|
+| `build.py` | Builds the LaTeX for each edition and compiles it |
+| `work/source.json` | The Chinese text as ordered blocks (parts, chapters, sections, paragraphs, images) |
+| `work/en/` | The English translation, one file per part, keyed by block |
+| `work/boxes/` | The 23 policy boxes and 3 maps, transcribed and translated |
+| `work/GLOSSARY.md` | The glossary and style rules the translation follows |
+| `src/img/` | The original box and map images |
+| `src/simp.html` | The source page |
 
-[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
+## Credits
+
+Translation and typesetting by DeepSeek (V4.1 Flash), with Claude on the typesetting DeepSeek
+couldn't handle.

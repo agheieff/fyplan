@@ -1,18 +1,13 @@
-# Whitelist: ignore everything, then allow what the edition is built from and the PDFs.
+# Whitelist: ignore everything, then allow what the editions are built from and the PDFs.
 *
 !*/
 !.gitignore
 !README.md
 !build.py
 !src/simp.html
-!src/paras.json
-!src/imgnames.json
-!src/imgurls.txt
-!src/img2.txt
 !src/img/*.jpg
-!work/*.md
+!work/GLOSSARY.md
 !work/source.json
-!work/chunks/*.json
-!work/en/*.json
-!work/boxes/*.json
+!work/en/part-*.json
+!work/boxes/box-*.json
 !deliverables/*.pdf
